@@ -4,7 +4,7 @@ Python script compiled, secure your source code
 # [termux]
 ```
 $ pkg update upgrade
-$ pkg install git
+$ pkg install git python2
 $ git clone https://github.com/ciku370/marshall
 ```
 
